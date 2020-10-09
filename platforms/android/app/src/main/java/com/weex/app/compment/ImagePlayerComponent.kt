@@ -115,4 +115,11 @@ class ImagePlayerComponent(instance: WXSDKInstance?, dom: WXDomObject?, parent: 
             this.setImageUrls(imageUrls)
         }
     }
+
+    @WXComponentProp(name = "index")
+    fun setPage(index: Int) {
+        mViewpager?.run {
+            this.setCurrentItem(index, false)
+        }
+    }
 }
