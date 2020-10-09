@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_scan.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_scan.png"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_scan.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_scan.png"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_refresh.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_scan.xml.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_app_config.xml.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wxpage.xml.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\layout\\activity_wxpage.xml"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_scan.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_scan.png"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_image_player.xml.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\layout\\layout_image_player.xml"
+    },
+    {
+        "merged": "D:\\stlxwl\\testpack\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_scan.png.flat",
+        "source": "D:\\stlxwl\\testpack\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_scan.png"
+    }
+]

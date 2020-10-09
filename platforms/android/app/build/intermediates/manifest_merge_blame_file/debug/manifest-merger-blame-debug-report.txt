@@ -1,0 +1,146 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.weex.app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:6:5-66
+11-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:7:5-80
+12-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:8:5-79
+13-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:9:5-64
+14-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:9:22-62
+15    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+15-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:10:5-87
+15-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:10:22-85
+16
+17    <uses-feature android:name="android.hardware.camera" />
+17-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:12:5-59
+17-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:12:19-57
+18    <uses-feature android:name="android.hardware.camera.autofocus" />
+18-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:13:5-69
+18-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:13:19-67
+19    <uses-feature
+19-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+20        android:name="android.hardware.camera.front"
+20-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+21        android:required="false" />
+21-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+22    <uses-feature
+22-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+23        android:name="android.hardware.camera.flash"
+23-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+24        android:required="false" />
+24-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+26        android:name="android.hardware.screen.landscape"
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+27        android:required="false" />
+27-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+29        android:name="android.hardware.wifi"
+29-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+30        android:required="false" />
+30-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+31
+32    <application
+32-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:15:5-45:19
+33        android:name="com.weex.app.WXApplication"
+33-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:16:9-50
+34        android:allowBackup="false"
+34-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:17:9-36
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:18:9-43
+37        android:label="@string/app_name"
+37-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:19:9-41
+38        android:supportsRtl="true"
+38-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:20:9-35
+39        android:theme="@style/AppTheme" >
+39-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:21:9-40
+40        <activity
+40-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:24:9-35:20
+41            android:name="com.weex.app.SplashActivity"
+41-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:25:13-55
+42            android:configChanges="orientation|keyboardHidden|screenSize"
+42-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:26:13-74
+43            android:label="@string/app_name"
+43-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:27:13-45
+44            android:screenOrientation="portrait"
+44-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:28:13-49
+45            android:theme="@style/FullscreenTheme" >
+45-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:29:13-51
+46            <intent-filter>
+46-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:30:13-34:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:31:17-68
+47-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:31:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:33:17-76
+49-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:33:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:36:9-40:20
+53            android:name="com.weex.app.WXPageActivity"
+53-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:37:13-55
+54            android:label="@string/app_name"
+54-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:38:13-45
+55            android:screenOrientation="portrait" >
+55-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:39:13-49
+56        </activity>
+57        <activity
+57-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:41:9-44:48
+58            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+58-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:42:13-74
+59            android:clearTaskOnLaunch="true"
+59-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+60            android:screenOrientation="portrait"
+60-->D:\stlxwl\testpack\platforms\android\app\src\main\AndroidManifest.xml:43:13-49
+61            android:stateNotNeeded="true"
+61-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+62            android:theme="@style/zxing_CaptureTheme"
+62-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+63            android:windowSoftInputMode="stateAlwaysHidden" />
+63-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\fe59c02eb894bb3bb71b314ebbedd8d3\zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+64
+65        <receiver
+65-->[com.taobao.android:weex_sdk:0.16.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\743aa22bafd1881d403d7436907231c8\weex_sdk-0.16.0\AndroidManifest.xml:30:9-34:20
+66            android:name="com.taobao.weex.WXGlobalEventReceiver"
+66-->[com.taobao.android:weex_sdk:0.16.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\743aa22bafd1881d403d7436907231c8\weex_sdk-0.16.0\AndroidManifest.xml:31:13-65
+67            android:enabled="true"
+67-->[com.taobao.android:weex_sdk:0.16.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\743aa22bafd1881d403d7436907231c8\weex_sdk-0.16.0\AndroidManifest.xml:32:13-35
+68            android:exported="false" >
+68-->[com.taobao.android:weex_sdk:0.16.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\743aa22bafd1881d403d7436907231c8\weex_sdk-0.16.0\AndroidManifest.xml:33:13-37
+69        </receiver>
+70
+71        <meta-data
+71-->[com.android.support:design:26.1.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\a1fcb390459b27f3555095238d85af71\design-26.1.0\AndroidManifest.xml:26:9-28:38
+72            android:name="android.support.VERSION"
+72-->[com.android.support:design:26.1.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\a1fcb390459b27f3555095238d85af71\design-26.1.0\AndroidManifest.xml:27:13-51
+73            android:value="26.1.0" />
+73-->[com.android.support:design:26.1.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\a1fcb390459b27f3555095238d85af71\design-26.1.0\AndroidManifest.xml:28:13-35
+74        <meta-data
+74-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\d4e7f878a891d5fea05407478136288c\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+75            android:name="android.arch.lifecycle.VERSION"
+75-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\d4e7f878a891d5fea05407478136288c\runtime-1.0.0\AndroidManifest.xml:26:13-58
+76            android:value="27.0.0-SNAPSHOT" />
+76-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\qinDa\.gradle\caches\transforms-2\files-2.1\d4e7f878a891d5fea05407478136288c\runtime-1.0.0\AndroidManifest.xml:27:13-44
+77    </application>
+78
+79</manifest>
